@@ -1,0 +1,47 @@
+h1 {
+font-family: courier;
+text-align: center;
+}
+body {
+background-color: #79B3CB;
+min-width: 86.5em;
+}
+img {
+    height: 17.5em;
+    width: 18.5em;
+}
+
+ul {
+    font-family: courier, sans;
+}
+
+h4 {
+    font-size: 18px;
+    font-family: fantasy;
+    text-decoration: underline
+}
+
+h3 {
+    font-size: 27px;
+    font-family: fantasy;
+    text-decoration: underline;
+}
+
+div {
+    margin: auto;
+    text-align: center;
+    vertical-align: middle;
+    height: 20px;
+    width: 80px;
+    border: 1px solid;
+    border-radius: 5px;
+    background-color: cadetblue;
+}
+
+#ytube {
+    border: 20px #CB9179 solid;
+    border-radius: 10px;
+    margin: auto;
+    width: 599px;
+    height: 452px;
+}
